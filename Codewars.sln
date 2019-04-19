@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Katas", "Codewars\Katas.csproj", "{E30EE185-21F0-4564-BF9E-6E76D6EB46A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Katas.CSharp", "Codewars\Katas.CSharp.csproj", "{E30EE185-21F0-4564-BF9E-6E76D6EB46A1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "Tests\Tests.csproj", "{AA1B39DC-47EC-45B1-9016-1BD763042D63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests.CSharp", "Tests\Tests.CSharp.csproj", "{AA1B39DC-47EC-45B1-9016-1BD763042D63}"
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Katas.FSharp", "Katas.FSharp\Katas.FSharp.fsproj", "{06922B39-216E-45D0-99CA-93371565F492}"
 EndProject

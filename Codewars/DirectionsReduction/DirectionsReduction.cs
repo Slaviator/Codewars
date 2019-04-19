@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Katas
+namespace Katas.CSharp
 {
     public class DirectionsReduction
     {

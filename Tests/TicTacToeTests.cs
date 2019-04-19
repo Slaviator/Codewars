@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
-using Katas;
+using Katas.CSharp;
 using Xunit;
-using static Katas.TicTacToe;
+using static Katas.CSharp.TicTacToe;
 
-namespace Tests
+namespace Tests.CSharp
 {
     public class TicTacToeTests
     {

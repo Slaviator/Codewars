@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace Katas
+namespace Katas.CSharp
 {
     public class RemoveSymbols
     {

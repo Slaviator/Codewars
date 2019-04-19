@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Codewars\Katas.csproj" />
+    <ProjectReference Include="..\Codewars\Katas.CSharp.csproj" />
   </ItemGroup>
 
 </Project>

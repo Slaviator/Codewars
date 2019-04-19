@@ -1,7 +1,7 @@
-﻿using Katas;
+﻿using Katas.CSharp;
 using Xunit;
 
-namespace Tests
+namespace Tests.CSharp
 {
     public class MiddleCharacterTests
     {

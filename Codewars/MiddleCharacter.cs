@@ -1,4 +1,4 @@
-﻿namespace Katas
+﻿namespace Katas.CSharp
 {
     public class MiddleCharacter
     {
