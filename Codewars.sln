@@ -11,6 +11,10 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Katas.FSharp", "Katas.FShar
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Tests.FSharp", "Tests.FSharp\Tests.FSharp.fsproj", "{83CCA704-F403-4FA7-A4A8-C38DAFD04A2B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharp", "CSharp", "{9CF82F87-2CEC-4824-861F-65C745334224}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FSharp", "FSharp", "{2D0DDF9D-A08A-43E9-A9A4-1312E8F7ED1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,6 +40,12 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E30EE185-21F0-4564-BF9E-6E76D6EB46A1} = {9CF82F87-2CEC-4824-861F-65C745334224}
+		{AA1B39DC-47EC-45B1-9016-1BD763042D63} = {9CF82F87-2CEC-4824-861F-65C745334224}
+		{06922B39-216E-45D0-99CA-93371565F492} = {2D0DDF9D-A08A-43E9-A9A4-1312E8F7ED1C}
+		{83CCA704-F403-4FA7-A4A8-C38DAFD04A2B} = {2D0DDF9D-A08A-43E9-A9A4-1312E8F7ED1C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FF8682D3-FE41-4EC1-872C-8DAC85FC504C}
