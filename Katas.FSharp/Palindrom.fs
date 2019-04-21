@@ -24,7 +24,8 @@ let revString s =
     |> String.concat ""
 
 let isPalindrom s =
-    (s |> toLower) = (s |> toLower |> revString)
+    let lowercaseS = toLower s
+    lowercaseS = revString lowercaseS
 
 let isPalindromEasy (s: string) =
     let arr = s.ToLower().ToCharArray()
