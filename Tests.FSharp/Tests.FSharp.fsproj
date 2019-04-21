@@ -10,6 +10,7 @@
   <ItemGroup>
     <Compile Include="RemoveExclamationMarksTests.fs" />
     <Compile Include="PalindromTests.fs" />
+    <Compile Include="SpeedControlTests.fs" />
   </ItemGroup>
 
   <ItemGroup>
